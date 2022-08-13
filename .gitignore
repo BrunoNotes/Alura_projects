@@ -1,0 +1,27 @@
+## Adota pet
+alura-adotapet/site/logs
+alura-adotapet/site/*.log
+alura-adotapet/site/npm-debug.log*
+alura-adotapet/site/yarn-debug.log*
+alura-adotapet/site/yarn-error.log*
+alura-adotapet/site/pnpm-debug.log*
+alura-adotapet/site/lerna-debug.log*
+alura-adotapet/site/node_modules
+alura-adotapet/site/.DS_Store
+alura-adotapet/site/dist
+alura-adotapet/site/dist-ssr
+alura-adotapet/site/coverage
+alura-adotapet/site/*.local
+alura-adotapet/site/cypress/videos/
+alura-adotapet/site/cypress/screenshots/
+alura-adotapet/site/.vscode/*
+alura-adotapet/site/!.vscode/extensions.json
+alura-adotapet/site/.idea
+alura-adotapet/site/*.suo
+alura-adotapet/site/*.ntvs*
+alura-adotapet/site/*.njsproj
+alura-adotapet/site/*.sln
+alura-adotapet/site/*.sw?
+
+## ORM_node
+ORM_node_sequelize/node_modules
